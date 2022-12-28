@@ -22,6 +22,8 @@ Also it opens in "VMD Main"
 
 <img width="1049" alt="Снимок экрана 2022-12-28 в 15 30 29" src="https://user-images.githubusercontent.com/118219943/209813255-c9d70cb2-c740-4e55-8b85-1cef9eb8fed8.png">
 
+Download or clone [code](https://github.com/nikoincc/allatom-polymere-system-in-VMD) for VMD to duplicate molecule
+
 Thanks to the department Plasma chemistry and nanotechnology of high molecular weight materials
 [(PNTHM)](http://www.kstu.ru/1leveltest.jsp?idparent=1575)
 
