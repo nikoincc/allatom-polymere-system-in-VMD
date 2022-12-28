@@ -27,7 +27,7 @@ Thanks to the department Plasma chemistry and nanotechnology of high molecular w
 
 Special thanks to:
 [Viktor Semyonovich Zheltukhin](http://www.kstu.ru/emp_detail.jsp?id=35509&idparent=1575)
-[Emil Faatovich Voznesensky](http://www.kstu.ru/emp_detail.jsp?id=1176002&idparent=1575)
-[Yulia Aleksandrovna Timoshina](http://www.kstu.ru/emp_detail.jsp?id=38291&idparent=1575)
+ | [Emil Faatovich Voznesensky](http://www.kstu.ru/emp_detail.jsp?id=1176002&idparent=1575)
+ | [Yulia Aleksandrovna Timoshina](http://www.kstu.ru/emp_detail.jsp?id=38291&idparent=1575)
 
 
