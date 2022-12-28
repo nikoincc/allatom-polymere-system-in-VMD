@@ -6,6 +6,8 @@ How i made file you can check [this](https://github.com/nikoincc/allatom-polymer
 First you need to download the VMD 
 [Download VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)
 
+Download or clone [code](https://github.com/nikoincc/allatom-polymere-system-in-VMD) for VMD to duplicate molecule
+
 After installing open your_file.xyz in VMD
 "File->New Molecular"
 
@@ -22,7 +24,11 @@ Also it opens in "VMD Main"
 
 <img width="1049" alt="Снимок экрана 2022-12-28 в 15 30 29" src="https://user-images.githubusercontent.com/118219943/209813255-c9d70cb2-c740-4e55-8b85-1cef9eb8fed8.png">
 
-Download or clone [code](https://github.com/nikoincc/allatom-polymere-system-in-VMD) for VMD to duplicate molecule
+In VMD type "topo" to start ToopoTools and pless Enter(Win), Return(Mac)
+
+<img width="592" alt="Снимок экрана 2022-12-28 в 15 45 18" src="https://user-images.githubusercontent.com/118219943/209814779-8ee2e1fc-2971-4c7f-af74-e27af4272b9a.png">
+
+<img width="1148" alt="ScreenShot" src="https://user-images.githubusercontent.com/118219943/209814783-1c54c551-d253-48e6-a814-f6d521060f8f.png">
 
 Thanks to the department Plasma chemistry and nanotechnology of high molecular weight materials
 [(PNTHM)](http://www.kstu.ru/1leveltest.jsp?idparent=1575)
