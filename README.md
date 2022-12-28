@@ -30,6 +30,8 @@ In VMD type "topo" to start ToopoTools and pless Enter(Win), Return(Mac)
 
 <img width="1148" alt="ScreenShot" src="https://user-images.githubusercontent.com/118219943/209814783-1c54c551-d253-48e6-a814-f6d521060f8f.png">
 
+Open [downloaded script](https://github.com/nikoincc/allatom-polymere-system-in-VMD)and chenge your name file.xyz and file.PDB  "set fname YOUR_FILE_NAME.xyz" | animate "write pdb PATH_TO_FILE.pdb"
+
 Then copy(Ctrl+C | command+C) [downloaded script](https://github.com/nikoincc/allatom-polymere-system-in-VMD) and pase(Ctrl+V | command+V) in to "startup.command VMD" window
 
 And there you have your structure of polymere
